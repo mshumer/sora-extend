@@ -2,7 +2,7 @@
 
 [![Follow on X](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://x.com/mattshumer_) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mshumer/sora-extend/blob/main/Sora_Extend.ipynb)
 
-[Be the first to know when I publish new AI builds + demos!](https://href.li/?https://cbyy8kpgxri.typeform.com/to/CsYODv0D)
+[Be the first to know when I publish new AI builds + demos!](https://tally.so/r/w2M17p)
 
 **Seamlessly generate extended Sora 2 videos beyond OpenAI’s 12-second limit.**
 
